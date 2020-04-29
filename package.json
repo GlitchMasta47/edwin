@@ -13,6 +13,10 @@
     "url": "https://github.com/GlitchMasta47/edwin/issues"
   },
   "homepage": "https://github.com/GlitchMasta47/edwin#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "discord.js": "^12.2.0"
+  },
   "devDependencies": {
     "jshint": "^2.11.0"
   }
