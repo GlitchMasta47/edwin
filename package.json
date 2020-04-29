@@ -1,0 +1,16 @@
+{
+  "name": "edwin",
+  "version": "0.0.1",
+  "description": "Edwin, the multi-purpose security & moderation bot for Discord",
+  "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchMasta47/edwin.git"
+  },
+  "author": "GlitchMasta47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlitchMasta47/edwin/issues"
+  },
+  "homepage": "https://github.com/GlitchMasta47/edwin#readme"
+}
