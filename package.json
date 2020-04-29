@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/GlitchMasta47/edwin/issues"
   },
-  "homepage": "https://github.com/GlitchMasta47/edwin#readme"
+  "homepage": "https://github.com/GlitchMasta47/edwin#readme",
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  }
 }
