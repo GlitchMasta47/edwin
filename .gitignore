@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# A classic file name
+core/config.json
